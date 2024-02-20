@@ -4,7 +4,7 @@
 <br /><br />
 
 - Skills <br />
-    React.js, React Native, Next.js, Node.js, Express.js, Playwright,
+    React.js, Next.js,Vue.js ,Nuxt.js , Node.js, Express.js, Playwright,
 <br />     GIT, Vite, JavaScript, Tailwind, styled-components, 
 <br />     CSS y HTML. 💥
 
