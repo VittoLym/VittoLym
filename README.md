@@ -11,7 +11,7 @@
 Estoy disponible y listo para ingresar a trabajar en alguna empresa y contribuir al crecimiento del equipo. 
 <br /> También me mantengo abierto a trabajos freelance. :rocket:
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,nodejs,express,mongodb,dart,flutter,js,git,tailwind&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,nodejs,express,python,rust,go,ruby,mongodb,mysql,dart,flutter,tailwind,&perline=5)](https://skillicons.dev)
 ## Contacto 📱:
 <a href="https://www.linkedin.com/in/devvitto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vitto.jsx@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
