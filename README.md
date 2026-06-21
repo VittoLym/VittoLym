@@ -1,4 +1,4 @@
-<img src="https://github.com/Vittossn/Portfolio3.0v-ahoraespersonal-/blob/main/src/assets/img/Vittobaner.png" alt="vitto banner">
+<img src="https://i.postimg.cc/Dw1DjWQG/port-li.png" alt="vitto banner">
 
 <p>Me encuentro trabajando como desarrollador freelance en equipo con programadores y diseñadores,<br/> en aplicaciones web. 💻</p>
 <br /><br />
