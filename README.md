@@ -35,7 +35,7 @@ Claude · Cursor · GitHub Copilot · OpenAI API · Gemini
 
 ## 🚀 Featured Projects
 
-- **[ecommerce-api](https://github.com/VittoLym/Scalable_ecommerce_api)** — Event-driven ecommerce backend with NestJS, Redis, BullMQ, RabbitMQ, Prisma and Prometheus observability
+- **[scalable_ecommerce-api](https://github.com/VittoLym/Scalable_ecommerce_api)** — Event-driven ecommerce backend with NestJS, Redis, RabbitMQ, Prisma
 - **[insights_engine](https://github.com/VittoLym/insights_engine)** — AI-powered engine that analyzes GitHub repos and auto-publishes content to 4 platforms using Gemini LLM
 - **[zeroloop-extension](https://github.com/VittoLym/zeroloop-extension)** — Chrome Extension (MV3) that analyzes LinkedIn job posts and generates tailored CVs and cover letters using GPT
 
