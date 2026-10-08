@@ -4,7 +4,7 @@
 
 **Backend Engineer & Automation Developer**
 
-I build production-ready backend systems, automation pipelines, and AI-powered tools. Based in Mendoza, Argentina. Open to remote opportunities and freelance projects.
+I build microservices, CI, unit tests, backend systems, automation pipelines, and AI-powered tools. Based in Mendoza, Argentina. Open to remote opportunities and freelance projects.
 
 ---
 
